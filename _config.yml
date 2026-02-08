@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+
+exclude:
+  - venv/
+  - __pycache__/
+  - "*.pyc"
+  - .python-version
+  - daily_trend.py
+  - requirements.txt

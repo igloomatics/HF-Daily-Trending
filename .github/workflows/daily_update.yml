@@ -45,11 +45,14 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         
+        # 添加生成的文件
+        git add README.md
+        
         # 检查是否有文件变化
-        if [[ -n $(git status -s) ]]; then
-          git add README.md docs/papers.json # 确保添加了你生成的文件
-          git commit -m "📝 Update Daily Papers: $(date +'%Y-%m-%d')"
-          git push
+        if git diff --staged --quiet; then
+          echo "✅ No changes to commit."
         else
-          echo "No changes to commit."
+          git commit -m "📝 Update Daily Trending: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+          echo "✅ Changes committed and pushed."
         fi

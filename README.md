@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-05 14:59:37
+Update Time: 2026-02-08 23:27:39
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- PaddlePaddle/PaddleOCR-VL [🔗](https://huggingface.co/PaddlePaddle/PaddleOCR-VL) (🌟 1538 | 📥 15853)
-- lodestones/Zeta-Chroma [🔗](https://huggingface.co/lodestones/Zeta-Chroma) (🌟 112 | 📥 0)
-- tencent/Youtu-VL-4B-Instruct-GGUF [🔗](https://huggingface.co/tencent/Youtu-VL-4B-Instruct-GGUF) (🌟 54 | 📥 2793)
-- mradermacher/Horiza-RAG-base-8b-i1-GGUF [🔗](https://huggingface.co/mradermacher/Horiza-RAG-base-8b-i1-GGUF) (🌟 1 | 📥 66)
-- mradermacher/atom-27b-i1-GGUF [🔗](https://huggingface.co/mradermacher/atom-27b-i1-GGUF) (🌟 1 | 📥 4153)
+- anton-hugging/TimeOmni-1-7B [🔗](https://huggingface.co/anton-hugging/TimeOmni-1-7B) (🌟 0 | 📥 31)
+- mradermacher/MS3.2-PaintedFantasy-v4-24B-i1-GGUF [🔗](https://huggingface.co/mradermacher/MS3.2-PaintedFantasy-v4-24B-i1-GGUF) (🌟 0 | 📥 0)
+- MysticonsLover/Elf-Girl [🔗](https://huggingface.co/MysticonsLover/Elf-Girl) (🌟 0 | 📥 0)
+- mradermacher/GLM-4.7-Flash-REAP-23B-A3B-i1-GGUF [🔗](https://huggingface.co/mradermacher/GLM-4.7-Flash-REAP-23B-A3B-i1-GGUF) (🌟 0 | 📥 0)
+- j05hr3d/Qwen2.5-Coder-3B-cryptol-formal-instruct-0RC_0T_0CM_124C_35M [🔗](https://huggingface.co/j05hr3d/Qwen2.5-Coder-3B-cryptol-formal-instruct-0RC_0T_0CM_124C_35M) (🌟 0 | 📥 0)
 
 ## ⛽ Trending Datasets
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 910763)
-- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3736)
-- hysts-bot-data/daily-papers-abstract-index [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers-abstract-index) (🌟 7 | 📥 2311)
-- huggingchat/papers-content [🔗](https://huggingface.co/datasets/huggingchat/papers-content) (🌟 6 | 📥 29675)
-- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 5044)
+- gaia-benchmark/results_public [🔗](https://huggingface.co/datasets/gaia-benchmark/results_public) (🌟 24 | 📥 2593)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 880232)
+- agents-course/unit4-students-scores [🔗](https://huggingface.co/datasets/agents-course/unit4-students-scores) (🌟 11 | 📥 12509)
+- hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 79927)
+- zongowo111/v2-crypto-ohlcv-data [🔗](https://huggingface.co/datasets/zongowo111/v2-crypto-ohlcv-data) (🌟 4 | 📥 5350)
 
 ## 🏠 Trending Spaces
-- shihabOX/neo-ai [🔗](https://huggingface.co/spaces/shihabOX/neo-ai) (🌟 1)
-- tuhbooh/FileToInvincible [🔗](https://huggingface.co/spaces/tuhbooh/FileToInvincible) (🌟 1)
-- OjodeAguila/appcomparativaimagen [🔗](https://huggingface.co/spaces/OjodeAguila/appcomparativaimagen) (🌟 1)
-- lexicalspace/blogger-source-downloader [🔗](https://huggingface.co/spaces/lexicalspace/blogger-source-downloader) (🌟 1)
-- LogicGoInfotechSpaces/BG_REMOVE_DOCKER [🔗](https://huggingface.co/spaces/LogicGoInfotechSpaces/BG_REMOVE_DOCKER) (🌟 1)
+- itbetyar/5-image-to-story [🔗](https://huggingface.co/spaces/itbetyar/5-image-to-story) (🌟 2)
+- eshan6704/hfapp [🔗](https://huggingface.co/spaces/eshan6704/hfapp) (🌟 1)
+- meleknur/Book-Recommender-System [🔗](https://huggingface.co/spaces/meleknur/Book-Recommender-System) (🌟 1)
+- SportsFacts/FreeBallTrackingSystem [🔗](https://huggingface.co/spaces/SportsFacts/FreeBallTrackingSystem) (🌟 1)
+- Phoe2004/Recap-shan [🔗](https://huggingface.co/spaces/Phoe2004/Recap-shan) (🌟 1)
 
 ## 📄 Trending Papers
-- **ERNIE 5.0 Technical Report**
-  👤 [taesiri](https://huggingface.co/taesiri) • 👍 140 • [View Paper](https://huggingface.co/papers/2602.04705)
-- **Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization**
-  🏢 [University of California, Berkeley](https://huggingface.co/UCBerkeley) • 👍 29 • [View Paper](https://huggingface.co/papers/2602.02958)
-- **Training Data Efficiency in Multimodal Process Reward Models**
-  👤 [Langlin Huang](https://huggingface.co/shrango) • 👍 26 • [View Paper](https://huggingface.co/papers/2602.04145)
-- **SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation**
-  🏢 [shanghai ailab ](https://huggingface.co/ShanghaiAiLab) • 👍 26 • [View Paper](https://huggingface.co/papers/2602.02402)
-- **EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models**
-  👤 [Börje Karlsson](https://huggingface.co/tellarin) • 👍 24 • [View Paper](https://huggingface.co/papers/2602.04515)
+- **CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty**
+  🏢 [BMW LLM Research Group](https://huggingface.co/BMW-LLM-Research-Group) • 👍 71 • [View Paper](https://huggingface.co/papers/2601.22027)
+- **Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening**
+  🏢 [AIFin Lab](https://huggingface.co/AIFin-Lab) • 👍 64 • [View Paper](https://huggingface.co/papers/2602.05386)
+- **Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR**
+  👤 [Fanfan Liu](https://huggingface.co/liufanfanlff) • 👍 45 • [View Paper](https://huggingface.co/papers/2602.05261)
+- **MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents**
+  🏢 [Nanyang Technological University](https://huggingface.co/NanyangTechnologicalUniversity) • 👍 44 • [View Paper](https://huggingface.co/papers/2602.02474)
+- **DFlash: Block Diffusion for Flash Speculative Decoding**
+  🏢 [Z Lab](https://huggingface.co/z-lab) • 👍 30 • [View Paper](https://huggingface.co/papers/2602.06036)

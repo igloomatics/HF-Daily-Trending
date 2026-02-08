@@ -1,11 +1,13 @@
 import os
-PROXY_PORT = "7890" 
-
-os.environ["http_proxy"] = f"http://127.0.0.1:{PROXY_PORT}"
-os.environ["https_proxy"] = f"http://127.0.0.1:{PROXY_PORT}"
 import datetime
 import requests
 from huggingface_hub import HfApi
+
+# 智能代理设置：本地用代理，GitHub Actions 不用代理
+if os.getenv("GITHUB_ACTIONS") != "true":
+    PROXY_PORT = "7890" 
+    os.environ["http_proxy"] = f"http://127.0.0.1:{PROXY_PORT}"
+    os.environ["https_proxy"] = f"http://127.0.0.1:{PROXY_PORT}"
 
 # ==========================================
 #  Hugging Face 官方版本 (无需镜像，需外网)
@@ -66,11 +68,17 @@ def get_trending_spaces(limit=5):
 
 def get_trending_papers(limit=5):
     print("-" * 30)
-    print("🚀 开始抓取 HF Daily Papers (仅今日版)...")
+    print("🚀 开始抓取 HF Daily Papers...")
     
-    # --- 修改点：只获取今天，去掉昨天 ---
+    # 周六/周日显示周五的论文，工作日显示当天的论文
     today = datetime.datetime.now(datetime.timezone.utc).date()
-    target_dates = [today] # 列表里只有今天
+    weekday = today.weekday()  # 0=周一, 4=周五, 5=周六, 6=周日
+    if weekday == 5:  # 周六
+        target_dates = [today - datetime.timedelta(days=1)]  # 周五
+    elif weekday == 6:  # 周日
+        target_dates = [today - datetime.timedelta(days=2)]  # 周五
+    else:
+        target_dates = [today]
     
     papers_map = {}
     
@@ -105,7 +113,7 @@ def get_trending_papers(limit=5):
                     )
                     current_upvotes = int(raw_upvotes)
 
-                    # 2. 三层机构查找逻辑 (保持不变)
+                    # 2. 三层机构查找逻辑
                     target_org = None
                     orgs_list = paper_info.get('organizations')
                     if orgs_list and isinstance(orgs_list, list) and len(orgs_list) > 0:
@@ -131,16 +139,21 @@ def get_trending_papers(limit=5):
                     else:
                         inst_url = "#"
 
-                    # 4. 存入字典 (因为只有一天，其实不用比大小了，但为了逻辑统一保留)
-                    papers_map[p_id] = {
-                        'title': title,
-                        'id': p_id,
-                        'upvotes': current_upvotes,
-                        'url': f"https://huggingface.co/papers/{p_id}",
-                        'inst_name': inst_name,
-                        'inst_url': inst_url,
-                        'inst_emoji': inst_emoji
-                    }
+                    # 4. 存入字典（取点赞数最高的）
+                    if p_id in papers_map:
+                        # 如果已存在，保留点赞数更高的
+                        if current_upvotes > papers_map[p_id]['upvotes']:
+                            papers_map[p_id]['upvotes'] = current_upvotes
+                    else:
+                        papers_map[p_id] = {
+                            'title': title,
+                            'id': p_id,
+                            'upvotes': current_upvotes,
+                            'url': f"https://huggingface.co/papers/{p_id}",
+                            'inst_name': inst_name,
+                            'inst_url': inst_url,
+                            'inst_emoji': inst_emoji
+                        }
             else:
                 print(f"      ⚠️ 状态码: {response.status_code}")
         except Exception as e:
