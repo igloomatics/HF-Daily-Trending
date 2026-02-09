@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-08 23:27:39
+Update Time: 2026-02-09 05:59:33
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- anton-hugging/TimeOmni-1-7B [🔗](https://huggingface.co/anton-hugging/TimeOmni-1-7B) (🌟 0 | 📥 31)
-- mradermacher/MS3.2-PaintedFantasy-v4-24B-i1-GGUF [🔗](https://huggingface.co/mradermacher/MS3.2-PaintedFantasy-v4-24B-i1-GGUF) (🌟 0 | 📥 0)
-- MysticonsLover/Elf-Girl [🔗](https://huggingface.co/MysticonsLover/Elf-Girl) (🌟 0 | 📥 0)
-- mradermacher/GLM-4.7-Flash-REAP-23B-A3B-i1-GGUF [🔗](https://huggingface.co/mradermacher/GLM-4.7-Flash-REAP-23B-A3B-i1-GGUF) (🌟 0 | 📥 0)
-- j05hr3d/Qwen2.5-Coder-3B-cryptol-formal-instruct-0RC_0T_0CM_124C_35M [🔗](https://huggingface.co/j05hr3d/Qwen2.5-Coder-3B-cryptol-formal-instruct-0RC_0T_0CM_124C_35M) (🌟 0 | 📥 0)
+- lodestones/Zeta-Chroma [🔗](https://huggingface.co/lodestones/Zeta-Chroma) (🌟 113 | 📥 0)
+- ibm-granite/granite-vision-3.3-2b-chart2csv-preview [🔗](https://huggingface.co/ibm-granite/granite-vision-3.3-2b-chart2csv-preview) (🌟 11 | 📥 471)
+- ihsankurnia27/quran-asr-model [🔗](https://huggingface.co/ihsankurnia27/quran-asr-model) (🌟 1 | 📥 0)
+- sugiken/Ordis-1.5B-V355-VarGH-GGUF [🔗](https://huggingface.co/sugiken/Ordis-1.5B-V355-VarGH-GGUF) (🌟 1 | 📥 7156)
+- simonko912/SLiNeP [🔗](https://huggingface.co/simonko912/SLiNeP) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- gaia-benchmark/results_public [🔗](https://huggingface.co/datasets/gaia-benchmark/results_public) (🌟 24 | 📥 2593)
 - KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 880232)
-- agents-course/unit4-students-scores [🔗](https://huggingface.co/datasets/agents-course/unit4-students-scores) (🌟 11 | 📥 12509)
+- hf-doc-build/doc-build [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build) (🌟 18 | 📥 1472202)
+- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3760)
 - hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 79927)
-- zongowo111/v2-crypto-ohlcv-data [🔗](https://huggingface.co/datasets/zongowo111/v2-crypto-ohlcv-data) (🌟 4 | 📥 5350)
+- hysts-bot-data/daily-papers-abstract-index [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers-abstract-index) (🌟 7 | 📥 2314)
 
 ## 🏠 Trending Spaces
-- itbetyar/5-image-to-story [🔗](https://huggingface.co/spaces/itbetyar/5-image-to-story) (🌟 2)
-- eshan6704/hfapp [🔗](https://huggingface.co/spaces/eshan6704/hfapp) (🌟 1)
-- meleknur/Book-Recommender-System [🔗](https://huggingface.co/spaces/meleknur/Book-Recommender-System) (🌟 1)
-- SportsFacts/FreeBallTrackingSystem [🔗](https://huggingface.co/spaces/SportsFacts/FreeBallTrackingSystem) (🌟 1)
-- Phoe2004/Recap-shan [🔗](https://huggingface.co/spaces/Phoe2004/Recap-shan) (🌟 1)
+- TIGER-Lab/MMEB-Leaderboard [🔗](https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard) (🌟 96)
+- prithivMLmods/FLUX.2-Klein-LoRA-Studio [🔗](https://huggingface.co/spaces/prithivMLmods/FLUX.2-Klein-LoRA-Studio) (🌟 11)
+- Aqarion/Phi43-Cog-Rag [🔗](https://huggingface.co/spaces/Aqarion/Phi43-Cog-Rag) (🌟 1)
+- OfficialSejeGed/nimbus-alfred-chat [🔗](https://huggingface.co/spaces/OfficialSejeGed/nimbus-alfred-chat) (🌟 1)
+- Farahsd9/insurance-charge-prediction [🔗](https://huggingface.co/spaces/Farahsd9/insurance-charge-prediction) (🌟 0)
 
 ## 📄 Trending Papers
-- **CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty**
-  🏢 [BMW LLM Research Group](https://huggingface.co/BMW-LLM-Research-Group) • 👍 71 • [View Paper](https://huggingface.co/papers/2601.22027)
-- **Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening**
-  🏢 [AIFin Lab](https://huggingface.co/AIFin-Lab) • 👍 64 • [View Paper](https://huggingface.co/papers/2602.05386)
-- **Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR**
-  👤 [Fanfan Liu](https://huggingface.co/liufanfanlff) • 👍 45 • [View Paper](https://huggingface.co/papers/2602.05261)
-- **MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents**
-  🏢 [Nanyang Technological University](https://huggingface.co/NanyangTechnologicalUniversity) • 👍 44 • [View Paper](https://huggingface.co/papers/2602.02474)
-- **DFlash: Block Diffusion for Flash Speculative Decoding**
-  🏢 [Z Lab](https://huggingface.co/z-lab) • 👍 30 • [View Paper](https://huggingface.co/papers/2602.06036)
+- **On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models**
+  👤 [Shumin](https://huggingface.co/Mystery) • 👍 32 • [View Paper](https://huggingface.co/papers/2602.03392)
+- **Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math**
+  👤 [GUIJIN SON](https://huggingface.co/amphora) • 👍 13 • [View Paper](https://huggingface.co/papers/2602.06291)
+- **Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training**
+  👤 [LiuJunxiao](https://huggingface.co/master-lan) • 👍 12 • [View Paper](https://huggingface.co/papers/2602.05940)
+- **Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making**
+  🏢 [Baichuan Intelligent Technology](https://huggingface.co/baichuan-inc) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.06570)
+- **MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments**
+  🏢 [Zhejiang University](https://huggingface.co/zju) • 👍 8 • [View Paper](https://huggingface.co/papers/2602.06075)
