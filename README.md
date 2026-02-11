@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-10 06:04:05
+Update Time: 2026-02-11 06:00:20
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- lodestones/Chroma2-Kaleidoscope [🔗](https://huggingface.co/lodestones/Chroma2-Kaleidoscope) (🌟 79 | 📥 0)
-- mollysama/rwkv-mobile-models [🔗](https://huggingface.co/mollysama/rwkv-mobile-models) (🌟 15 | 📥 4434)
-- ReactiveAI/RxT-Beta-Encoder-Base [🔗](https://huggingface.co/ReactiveAI/RxT-Beta-Encoder-Base) (🌟 1 | 📥 39)
-- M-a-t-t-E/vit-base-qr-classifier [🔗](https://huggingface.co/M-a-t-t-E/vit-base-qr-classifier) (🌟 1 | 📥 353)
-- prithivMLmods/Qwen3-VL-4B-Instruct-c_abliterated-v2 [🔗](https://huggingface.co/prithivMLmods/Qwen3-VL-4B-Instruct-c_abliterated-v2) (🌟 1 | 📥 0)
+- hjhfgfxj/test_model [🔗](https://huggingface.co/hjhfgfxj/test_model) (🌟 0 | 📥 0)
+- mradermacher/OPRM-14B-GGUF [🔗](https://huggingface.co/mradermacher/OPRM-14B-GGUF) (🌟 0 | 📥 0)
+- mradermacher/Jupiter-Edu-NCERT-14B-GGUF [🔗](https://huggingface.co/mradermacher/Jupiter-Edu-NCERT-14B-GGUF) (🌟 0 | 📥 0)
+- duongthanhha1963/YHKkKDXt3fto70Y [🔗](https://huggingface.co/duongthanhha1963/YHKkKDXt3fto70Y) (🌟 0 | 📥 0)
+- beachcities/qwen3-4b-sft-v4a-dpo [🔗](https://huggingface.co/beachcities/qwen3-4b-sft-v4a-dpo) (🌟 0 | 📥 0)
 
 ## ⛽ Trending Datasets
-- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 9318)
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 955570)
-- hysts-bot-data/daily-papers-abstract-index [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers-abstract-index) (🌟 7 | 📥 2309)
-- rbler/MMSI-Video-Bench [🔗](https://huggingface.co/datasets/rbler/MMSI-Video-Bench) (🌟 4 | 📥 347)
-- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 5657)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 1052739)
+- hysts-bot-data/daily-papers-abstract-index [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers-abstract-index) (🌟 7 | 📥 2377)
+- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4976)
+- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 15597)
+- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 5652)
 
 ## 🏠 Trending Spaces
-- Plana-Archive/Blue-Archive-TTS-v5.0 [🔗](https://huggingface.co/spaces/Plana-Archive/Blue-Archive-TTS-v5.0) (🌟 2)
-- chacruise/betting1 [🔗](https://huggingface.co/spaces/chacruise/betting1) (🌟 1)
-- anshugoyal/Obs_Extractor [🔗](https://huggingface.co/spaces/anshugoyal/Obs_Extractor) (🌟 1)
-- harshpatel321/sageai-server [🔗](https://huggingface.co/spaces/harshpatel321/sageai-server) (🌟 1)
+- ravediamond/baby-reachy-mini-companion [🔗](https://huggingface.co/spaces/ravediamond/baby-reachy-mini-companion) (🌟 109)
+- Aqarion/Phi-377-spectral-geometry [🔗](https://huggingface.co/spaces/Aqarion/Phi-377-spectral-geometry) (🌟 1)
+- GABASSI/COGNILINE-APP-v1.0 [🔗](https://huggingface.co/spaces/GABASSI/COGNILINE-APP-v1.0) (🌟 1)
+- luannteixeira/giafalconsv4 [🔗](https://huggingface.co/spaces/luannteixeira/giafalconsv4) (🌟 1)
 - HarshitaSuri/API_Eval [🔗](https://huggingface.co/spaces/HarshitaSuri/API_Eval) (🌟 1)
 
 ## 📄 Trending Papers
-- **Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models**
-  👤 [Yu_xm](https://huggingface.co/Yu2020) • 👍 43 • [View Paper](https://huggingface.co/papers/2602.07026)
-- **Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO**
-  🏢 [Zhejiang University](https://huggingface.co/zju) • 👍 21 • [View Paper](https://huggingface.co/papers/2602.06422)
-- **QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining**
-  🏢 [QuantaAlpha](https://huggingface.co/QuantaAlpha) • 👍 18 • [View Paper](https://huggingface.co/papers/2602.07085)
-- **Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning**
-  🏢 [Ai2](https://huggingface.co/allenai) • 👍 17 • [View Paper](https://huggingface.co/papers/2602.07845)
-- **LLaDA2.1: Speeding Up Text Diffusion via Token Editing**
-  🏢 [inclusionAI](https://huggingface.co/inclusionAI) • 👍 16 • [View Paper](https://huggingface.co/papers/2602.08676)
+- **OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration**
+  🏢 [Qwen](https://huggingface.co/Qwen) • 👍 96 • [View Paper](https://huggingface.co/papers/2602.05400)
+- **Code2World: A GUI World Model via Renderable Code Generation**
+  👤 [taesiri](https://huggingface.co/taesiri) • 👍 73 • [View Paper](https://huggingface.co/papers/2602.09856)
+- **UI-Venus-1.5 Technical Report**
+  🏢 [inclusionAI](https://huggingface.co/inclusionAI) • 👍 67 • [View Paper](https://huggingface.co/papers/2602.09082)
+- **SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning**
+  🏢 [University of North Carolina at Chapel Hill](https://huggingface.co/UNC-ChapelHill) • 👍 49 • [View Paper](https://huggingface.co/papers/2602.08234)
+- **Prism: Spectral-Aware Block-Sparse Attention**
+  🏢 [OpenMOSS](https://huggingface.co/OpenMOSS-Team) • 👍 27 • [View Paper](https://huggingface.co/papers/2602.08426)
