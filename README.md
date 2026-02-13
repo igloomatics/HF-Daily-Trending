@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-12 05:56:10
+Update Time: 2026-02-13 05:50:22
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- stagemedia0798/6Ly2A7S9Qq5rHc7 [🔗](https://huggingface.co/stagemedia0798/6Ly2A7S9Qq5rHc7) (🌟 0 | 📥 0)
-- mradermacher/SwarmMedQA-7B-v1-GGUF [🔗](https://huggingface.co/mradermacher/SwarmMedQA-7B-v1-GGUF) (🌟 0 | 📥 0)
-- stagemedia0798/DMx4wnasFpOZqMj [🔗](https://huggingface.co/stagemedia0798/DMx4wnasFpOZqMj) (🌟 0 | 📥 0)
-- patrickamadeus/nanovlm-step-2600 [🔗](https://huggingface.co/patrickamadeus/nanovlm-step-2600) (🌟 0 | 📥 0)
-- destroytoss0985/fkXSV9Jja69rtfD [🔗](https://huggingface.co/destroytoss0985/fkXSV9Jja69rtfD) (🌟 0 | 📥 0)
+- DarkArtsForge/Raven-8B-v1 [🔗](https://huggingface.co/DarkArtsForge/Raven-8B-v1) (🌟 2 | 📥 0)
+- OccultAI/Morpheus-8B-v1 [🔗](https://huggingface.co/OccultAI/Morpheus-8B-v1) (🌟 1 | 📥 0)
+- kienvnnn/kiencommunity-ai [🔗](https://huggingface.co/kienvnnn/kiencommunity-ai) (🌟 1 | 📥 0)
+- logannewman106901/GBjO6GaJDeJqEhI [🔗](https://huggingface.co/logannewman106901/GBjO6GaJDeJqEhI) (🌟 0 | 📥 0)
+- TharunRavi/whisper-telugu-lora [🔗](https://huggingface.co/TharunRavi/whisper-telugu-lora) (🌟 0 | 📥 0)
 
 ## ⛽ Trending Datasets
-- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 9375)
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 1052739)
-- InnovatorLab/Innovator-VL-Instruct-46M [🔗](https://huggingface.co/datasets/InnovatorLab/Innovator-VL-Instruct-46M) (🌟 3 | 📥 1744)
-- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 5652)
-- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 15597)
+- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3838)
+- RealSourceData/RealSource-World [🔗](https://huggingface.co/datasets/RealSourceData/RealSource-World) (🌟 9 | 📥 79657)
+- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 15263)
+- farid678/faraz [🔗](https://huggingface.co/datasets/farid678/faraz) (🌟 1 | 📥 0)
+- shahzeb-naeem/chirisa-ai-db [🔗](https://huggingface.co/datasets/shahzeb-naeem/chirisa-ai-db) (🌟 0 | 📥 18989)
 
 ## 🏠 Trending Spaces
-- prithivMLmods/DeepSeek-OCR-2-Demo [🔗](https://huggingface.co/spaces/prithivMLmods/DeepSeek-OCR-2-Demo) (🌟 11)
-- GABASSI/COGNILINE-APP-v1.0 [🔗](https://huggingface.co/spaces/GABASSI/COGNILINE-APP-v1.0) (🌟 1)
-- MSU576/GeoMateV2 [🔗](https://huggingface.co/spaces/MSU576/GeoMateV2) (🌟 1)
-- saifom/SQU-Medical-Library [🔗](https://huggingface.co/spaces/saifom/SQU-Medical-Library) (🌟 1)
-- cafe3310/ming-uniaudio-demo [🔗](https://huggingface.co/spaces/cafe3310/ming-uniaudio-demo) (🌟 1)
+- ravediamond/baby-reachy-mini-companion [🔗](https://huggingface.co/spaces/ravediamond/baby-reachy-mini-companion) (🌟 134)
+- cafe3310/ling-series-spaces [🔗](https://huggingface.co/spaces/cafe3310/ling-series-spaces) (🌟 4)
+- Arthurreuss/NO2_Prediction [🔗](https://huggingface.co/spaces/Arthurreuss/NO2_Prediction) (🌟 2)
+- ML-Innovator/Intelligence_Ai_news_agent [🔗](https://huggingface.co/spaces/ML-Innovator/Intelligence_Ai_news_agent) (🌟 1)
+- signsur4739379373/rife-frame-interpolator [🔗](https://huggingface.co/spaces/signsur4739379373/rife-frame-interpolator) (🌟 1)
 
 ## 📄 Trending Papers
-- **Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters**
-  🏢 [StepFun](https://huggingface.co/stepfun-ai) • 👍 107 • [View Paper](https://huggingface.co/papers/2602.10604)
-- **PhyCritic: Multimodal Critic Models for Physical AI**
-  🏢 [NVIDIA](https://huggingface.co/nvidia) • 👍 20 • [View Paper](https://huggingface.co/papers/2602.11124)
-- **Towards Autonomous Mathematics Research**
-  🏢 [Google](https://huggingface.co/google) • 👍 12 • [View Paper](https://huggingface.co/papers/2602.10177)
-- **When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning**
-  🏢 [ByteDance Seed](https://huggingface.co/ByteDance-Seed) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.10560)
-- **DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning**
-  👤 [Chen Yicheng](https://huggingface.co/yichengchen24) • 👍 10 • [View Paper](https://huggingface.co/papers/2602.11089)
+- **The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies**
+  👤 [Chenxu Wang](https://huggingface.co/xunyoyo) • 👍 72 • [View Paper](https://huggingface.co/papers/2602.09877)
+- **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**
+  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 31 • [View Paper](https://huggingface.co/papers/2602.12125)
+- **GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**
+  🏢 [GigaAI](https://huggingface.co/open-gigaai) • 👍 24 • [View Paper](https://huggingface.co/papers/2602.12099)
+- **Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**
+  🏢 [National Yang Ming Chiao Tung University](https://huggingface.co/NYCU) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.12280)
+- **LawThinker: A Deep Research Legal Agent in Dynamic Environments**
+  🏢 [Renmin University of China](https://huggingface.co/RUC) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.12056)
