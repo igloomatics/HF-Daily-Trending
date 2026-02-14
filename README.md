@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-13 05:50:22
+Update Time: 2026-02-14 05:36:41
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- DarkArtsForge/Raven-8B-v1 [🔗](https://huggingface.co/DarkArtsForge/Raven-8B-v1) (🌟 2 | 📥 0)
-- OccultAI/Morpheus-8B-v1 [🔗](https://huggingface.co/OccultAI/Morpheus-8B-v1) (🌟 1 | 📥 0)
-- kienvnnn/kiencommunity-ai [🔗](https://huggingface.co/kienvnnn/kiencommunity-ai) (🌟 1 | 📥 0)
-- logannewman106901/GBjO6GaJDeJqEhI [🔗](https://huggingface.co/logannewman106901/GBjO6GaJDeJqEhI) (🌟 0 | 📥 0)
-- TharunRavi/whisper-telugu-lora [🔗](https://huggingface.co/TharunRavi/whisper-telugu-lora) (🌟 0 | 📥 0)
+- deepgenteam/DeepGen-1.0 [🔗](https://huggingface.co/deepgenteam/DeepGen-1.0) (🌟 26 | 📥 0)
+- FireRedTeam/FireRed-Image-Edit-1.0 [🔗](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0) (🌟 13 | 📥 6)
+- bartowski/moonshotai_Kimi-K2.5-GGUF [🔗](https://huggingface.co/bartowski/moonshotai_Kimi-K2.5-GGUF) (🌟 4 | 📥 0)
+- NoesisLab/NanoHammer-1.5B-Instruct [🔗](https://huggingface.co/NoesisLab/NanoHammer-1.5B-Instruct) (🌟 3 | 📥 10)
+- thusinh1969/BrightTO-SV-V1.2-LMF_E0-PROD [🔗](https://huggingface.co/thusinh1969/BrightTO-SV-V1.2-LMF_E0-PROD) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3838)
-- RealSourceData/RealSource-World [🔗](https://huggingface.co/datasets/RealSourceData/RealSource-World) (🌟 9 | 📥 79657)
-- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 15263)
-- farid678/faraz [🔗](https://huggingface.co/datasets/farid678/faraz) (🌟 1 | 📥 0)
-- shahzeb-naeem/chirisa-ai-db [🔗](https://huggingface.co/datasets/shahzeb-naeem/chirisa-ai-db) (🌟 0 | 📥 18989)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 1247005)
+- allenai/molmospaces [🔗](https://huggingface.co/datasets/allenai/molmospaces) (🌟 9 | 📥 85)
+- hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 76155)
+- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 5028)
+- VoiceOfML/VOMEBOOK [🔗](https://huggingface.co/datasets/VoiceOfML/VOMEBOOK) (🌟 4 | 📥 987)
 
 ## 🏠 Trending Spaces
-- ravediamond/baby-reachy-mini-companion [🔗](https://huggingface.co/spaces/ravediamond/baby-reachy-mini-companion) (🌟 134)
-- cafe3310/ling-series-spaces [🔗](https://huggingface.co/spaces/cafe3310/ling-series-spaces) (🌟 4)
-- Arthurreuss/NO2_Prediction [🔗](https://huggingface.co/spaces/Arthurreuss/NO2_Prediction) (🌟 2)
-- ML-Innovator/Intelligence_Ai_news_agent [🔗](https://huggingface.co/spaces/ML-Innovator/Intelligence_Ai_news_agent) (🌟 1)
-- signsur4739379373/rife-frame-interpolator [🔗](https://huggingface.co/spaces/signsur4739379373/rife-frame-interpolator) (🌟 1)
+- prithivMLmods/Multimodal-OCR3 [🔗](https://huggingface.co/spaces/prithivMLmods/Multimodal-OCR3) (🌟 61)
+- Unearthed/Artifact_Classifier [🔗](https://huggingface.co/spaces/Unearthed/Artifact_Classifier) (🌟 2)
+- AIM-SCU/Cross-Cultural_Meme_Transcreation [🔗](https://huggingface.co/spaces/AIM-SCU/Cross-Cultural_Meme_Transcreation) (🌟 2)
+- rikunarita/Z-Image-Turbo-GGUF-Q4_K_M [🔗](https://huggingface.co/spaces/rikunarita/Z-Image-Turbo-GGUF-Q4_K_M) (🌟 1)
+- samiee2213/bjj-agentic [🔗](https://huggingface.co/spaces/samiee2213/bjj-agentic) (🌟 1)
 
 ## 📄 Trending Papers
 - **The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies**
-  👤 [Chenxu Wang](https://huggingface.co/xunyoyo) • 👍 72 • [View Paper](https://huggingface.co/papers/2602.09877)
+  👤 [Chenxu Wang](https://huggingface.co/xunyoyo) • 👍 172 • [View Paper](https://huggingface.co/papers/2602.09877)
+- **Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**
+  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 83 • [View Paper](https://huggingface.co/papers/2602.12036)
+- **DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**
+  🏢 [Shanghai Innovation Institute](https://huggingface.co/sii-research) • 👍 66 • [View Paper](https://huggingface.co/papers/2602.12205)
 - **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**
-  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 31 • [View Paper](https://huggingface.co/papers/2602.12125)
-- **GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**
-  🏢 [GigaAI](https://huggingface.co/open-gigaai) • 👍 24 • [View Paper](https://huggingface.co/papers/2602.12099)
-- **Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**
-  🏢 [National Yang Ming Chiao Tung University](https://huggingface.co/NYCU) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.12280)
-- **LawThinker: A Deep Research Legal Agent in Dynamic Environments**
-  🏢 [Renmin University of China](https://huggingface.co/RUC) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.12056)
+  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 53 • [View Paper](https://huggingface.co/papers/2602.12125)
+- **MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models**
+  🏢 [OpenMOSS](https://huggingface.co/OpenMOSS-Team) • 👍 44 • [View Paper](https://huggingface.co/papers/2602.10934)
