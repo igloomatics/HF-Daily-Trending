@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-16 05:58:35
+Update Time: 2026-02-17 05:49:44
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- Mungert/GLM-4.1V-9B-Thinking-GGUF [🔗](https://huggingface.co/Mungert/GLM-4.1V-9B-Thinking-GGUF) (🌟 9 | 📥 272)
-- dzungpham/font-architect [🔗](https://huggingface.co/dzungpham/font-architect) (🌟 1 | 📥 321)
-- Tiger12312311/cccc [🔗](https://huggingface.co/Tiger12312311/cccc) (🌟 0 | 📥 0)
-- thehaxorgd/qwen3vl-ft-021 [🔗](https://huggingface.co/thehaxorgd/qwen3vl-ft-021) (🌟 0 | 📥 0)
-- dobrien/ViT-B-32-Cars [🔗](https://huggingface.co/dobrien/ViT-B-32-Cars) (🌟 0 | 📥 0)
+- Chattiori/ChattioriMixesXL [🔗](https://huggingface.co/Chattiori/ChattioriMixesXL) (🌟 8 | 📥 0)
+- ThirdTimesTheCiarc/base_wan22_2601 [🔗](https://huggingface.co/ThirdTimesTheCiarc/base_wan22_2601) (🌟 3 | 📥 0)
+- bharatgenai/Param2-17B-A2.4B-Thinking [🔗](https://huggingface.co/bharatgenai/Param2-17B-A2.4B-Thinking) (🌟 2 | 📥 0)
+- ThirdTimesTheCiarc/base_calvin [🔗](https://huggingface.co/ThirdTimesTheCiarc/base_calvin) (🌟 2 | 📥 0)
+- mradermacher/OpenResearcher-30B-A3B-i1-GGUF [🔗](https://huggingface.co/mradermacher/OpenResearcher-30B-A3B-i1-GGUF) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- builddotai/Egocentric-100K [🔗](https://huggingface.co/datasets/builddotai/Egocentric-100K) (🌟 88 | 📥 37059)
-- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 8854)
-- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3822)
-- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 1655)
-- hysts-bot-data/daily-papers-abstract-index [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers-abstract-index) (🌟 7 | 📥 2425)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 21 | 📥 1681556)
+- nvidia/HiLiftAeroML [🔗](https://huggingface.co/datasets/nvidia/HiLiftAeroML) (🌟 17 | 📥 837)
+- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 1829)
+- John6666/forum3 [🔗](https://huggingface.co/datasets/John6666/forum3) (🌟 9 | 📥 4806)
+- huggingchat/papers-content [🔗](https://huggingface.co/datasets/huggingchat/papers-content) (🌟 6 | 📥 24630)
 
 ## 🏠 Trending Spaces
-- r3gm/wan2-2-fp8da-aoti-preview [🔗](https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview) (🌟 769)
-- open-webui/open-webui [🔗](https://huggingface.co/spaces/open-webui/open-webui) (🌟 165)
-- tminh-2123/exam-generator [🔗](https://huggingface.co/spaces/tminh-2123/exam-generator) (🌟 2)
-- soojeongcrystal/PandasAI [🔗](https://huggingface.co/spaces/soojeongcrystal/PandasAI) (🌟 2)
-- zjuxhl/EasySteer [🔗](https://huggingface.co/spaces/zjuxhl/EasySteer) (🌟 2)
+- DontPlanToEnd/UGI-Leaderboard [🔗](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) (🌟 1498)
+- Muthuraja18/game [🔗](https://huggingface.co/spaces/Muthuraja18/game) (🌟 2)
+- Tomiwajin/testEmailClassifier [🔗](https://huggingface.co/spaces/Tomiwajin/testEmailClassifier) (🌟 2)
+- LogicGoInfotechSpaces/PolaroidImage [🔗](https://huggingface.co/spaces/LogicGoInfotechSpaces/PolaroidImage) (🌟 1)
+- Aridat/Autovert [🔗](https://huggingface.co/spaces/Aridat/Autovert) (🌟 1)
 
 ## 📄 Trending Papers
-- **Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs**
-  👤 [ZhongzhiLi](https://huggingface.co/Zhongzhi1228) • 👍 180 • [View Paper](https://huggingface.co/papers/2602.10388)
-- **Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception**
-  🏢 [inclusionAI](https://huggingface.co/inclusionAI) • 👍 42 • [View Paper](https://huggingface.co/papers/2602.11858)
-- **MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs**
-  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 35 • [View Paper](https://huggingface.co/papers/2602.12705)
-- **OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence**
-  🏢 [LMMs-Lab](https://huggingface.co/lmms-lab) • 👍 24 • [View Paper](https://huggingface.co/papers/2602.08683)
-- **RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models**
-  🏢 [RLinf](https://huggingface.co/RLinf) • 👍 6 • [View Paper](https://huggingface.co/papers/2602.12628)
+- **Qute: Towards Quantum-Native Database**
+  👤 [Wei Zhou](https://huggingface.co/weizhoudb) • 👍 8 • [View Paper](https://huggingface.co/papers/2602.14699)
+- **REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents**
+  🏢 [Xiaohongshu](https://huggingface.co/xiaohongshu) • 👍 5 • [View Paper](https://huggingface.co/papers/2602.14234)
+- **Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings**
+  🏢 [Tsinghua University](https://huggingface.co/Tsinghua) • 👍 3 • [View Paper](https://huggingface.co/papers/2602.13823)
+- **UniWeTok: An Unified Binary Tokenizer with Codebook Size 2^{128} for Unified Multimodal Large Language Model**
+  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 2 • [View Paper](https://huggingface.co/papers/2602.14178)
+- **BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents**
+  👤 [taesiri](https://huggingface.co/taesiri) • 👍 2 • [View Paper](https://huggingface.co/papers/2602.12876)
