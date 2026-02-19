@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-18 05:52:08
+Update Time: 2026-02-19 05:49:56
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- lodestones/Zeta-Chroma [🔗](https://huggingface.co/lodestones/Zeta-Chroma) (🌟 118 | 📥 0)
-- xgen-universe/Capybara [🔗](https://huggingface.co/xgen-universe/Capybara) (🌟 63 | 📥 0)
-- AiArtLab/sdxs-1b [🔗](https://huggingface.co/AiArtLab/sdxs-1b) (🌟 3 | 📥 190)
-- FIRSTACCOUNT69/test-hunt-2 [🔗](https://huggingface.co/FIRSTACCOUNT69/test-hunt-2) (🌟 1 | 📥 0)
-- yilunhao/algsteer [🔗](https://huggingface.co/yilunhao/algsteer) (🌟 1 | 📥 580)
+- Chattiori/ChattioriMixesXL [🔗](https://huggingface.co/Chattiori/ChattioriMixesXL) (🌟 8 | 📥 0)
+- obsxrver/wan2.2-i2v-blink-piss [🔗](https://huggingface.co/obsxrver/wan2.2-i2v-blink-piss) (🌟 6 | 📥 1433)
+- mradermacher/atom-27b-GGUF [🔗](https://huggingface.co/mradermacher/atom-27b-GGUF) (🌟 2 | 📥 443)
+- prithivMLmods/Qwen3-VL-32B-Instruct-Unredacted-MAX-FP8 [🔗](https://huggingface.co/prithivMLmods/Qwen3-VL-32B-Instruct-Unredacted-MAX-FP8) (🌟 1 | 📥 0)
+- prithivMLmods/Qwen3-VL-32B-Thinking-Unredacted-MAX-FP8 [🔗](https://huggingface.co/prithivMLmods/Qwen3-VL-32B-Thinking-Unredacted-MAX-FP8) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3879)
-- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 1875)
-- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4917)
-- huggingchat/papers-content [🔗](https://huggingface.co/datasets/huggingchat/papers-content) (🌟 6 | 📥 24721)
-- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 4677)
+- PleIAs/common_corpus [🔗](https://huggingface.co/datasets/PleIAs/common_corpus) (🌟 351 | 📥 55413)
+- artefactory/Argimi-Ardian-Finance-10k-text [🔗](https://huggingface.co/datasets/artefactory/Argimi-Ardian-Finance-10k-text) (🌟 15 | 📥 1583)
+- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 2291)
+- artefactory/Argimi-Ardian-Finance-10k-text-image [🔗](https://huggingface.co/datasets/artefactory/Argimi-Ardian-Finance-10k-text-image) (🌟 8 | 📥 17462)
+- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4846)
 
 ## 🏠 Trending Spaces
-- YangYingNetwork/hubAPI [🔗](https://huggingface.co/spaces/YangYingNetwork/hubAPI) (🌟 1)
-- LogicGoInfotechSpaces/BG_REMOVE_DOCKER [🔗](https://huggingface.co/spaces/LogicGoInfotechSpaces/BG_REMOVE_DOCKER) (🌟 1)
-- jeevan0704/GAN-horse-2-zebra [🔗](https://huggingface.co/spaces/jeevan0704/GAN-horse-2-zebra) (🌟 0)
-- Notenkraker02/Noot_Music_Collection [🔗](https://huggingface.co/spaces/Notenkraker02/Noot_Music_Collection) (🌟 0)
-- musasu/builder [🔗](https://huggingface.co/spaces/musasu/builder) (🌟 0)
+- taishi-i/awesome-ChatGPT-repositories-search [🔗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) (🌟 54)
+- c-pitti/Aya-Interface [🔗](https://huggingface.co/spaces/c-pitti/Aya-Interface) (🌟 1)
+- AegionX/HoopMind [🔗](https://huggingface.co/spaces/AegionX/HoopMind) (🌟 1)
+- stephane09/chd-rainette_v0_4 [🔗](https://huggingface.co/spaces/stephane09/chd-rainette_v0_4) (🌟 1)
+- Eli1993/multi-llm-chat [🔗](https://huggingface.co/spaces/Eli1993/multi-llm-chat) (🌟 1)
 
 ## 📄 Trending Papers
-- **Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook**
-  👤 [Ming Li](https://huggingface.co/MingLiiii) • 👍 13 • [View Paper](https://huggingface.co/papers/2602.14299)
-- **GLM-5: from Vibe Coding to Agentic Engineering**
-  👤 [taesiri](https://huggingface.co/taesiri) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.15763)
-- **ResearchGym: Evaluating Language Model Agents on Real-World AI Research**
-  🏢 [Yale University](https://huggingface.co/YaleUniversity) • 👍 4 • [View Paper](https://huggingface.co/papers/2602.15112)
-- **Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models**
-  👤 [Sen Ye](https://huggingface.co/sen-ye) • 👍 2 • [View Paper](https://huggingface.co/papers/2602.15772)
-- **Visual Persuasion: What Influences Decisions of Vision-Language Models?**
-  👤 [taesiri](https://huggingface.co/taesiri) • 👍 2 • [View Paper](https://huggingface.co/papers/2602.15278)
+- **SLA2: Sparse-Linear Attention with Learnable Routing and QAT**
+  🏢 [UC Berkeley](https://huggingface.co/Berkeley) • 👍 22 • [View Paper](https://huggingface.co/papers/2602.12675)
+- **Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**
+  👤 [Runpei Dong](https://huggingface.co/RunpeiDong) • 👍 18 • [View Paper](https://huggingface.co/papers/2602.16705)
+- **RynnBrain: Open Embodied Foundation Models**
+  🏢 [DAMO Academy](https://huggingface.co/Alibaba-DAMO-Academy) • 👍 9 • [View Paper](https://huggingface.co/papers/2602.14979)
+- **Multi-agent cooperation through in-context co-player inference**
+  🏢 [Google](https://huggingface.co/google) • 👍 5 • [View Paper](https://huggingface.co/papers/2602.16301)
+- **World Action Models are Zero-shot Policies**
+  🏢 [NVIDIA Deep Imagination Research](https://huggingface.co/NVIDIA-DIR) • 👍 4 • [View Paper](https://huggingface.co/papers/2602.15922)
