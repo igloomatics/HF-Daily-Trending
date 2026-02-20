@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-19 05:49:56
+Update Time: 2026-02-20 05:44:02
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
+- Qwen/Qwen3.5-397B-A17B [🔗](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) (🌟 741 | 📥 79343)
+- ubergarm/Qwen3.5-397B-A17B-GGUF [🔗](https://huggingface.co/ubergarm/Qwen3.5-397B-A17B-GGUF) (🌟 17 | 📥 1553)
 - Chattiori/ChattioriMixesXL [🔗](https://huggingface.co/Chattiori/ChattioriMixesXL) (🌟 8 | 📥 0)
-- obsxrver/wan2.2-i2v-blink-piss [🔗](https://huggingface.co/obsxrver/wan2.2-i2v-blink-piss) (🌟 6 | 📥 1433)
-- mradermacher/atom-27b-GGUF [🔗](https://huggingface.co/mradermacher/atom-27b-GGUF) (🌟 2 | 📥 443)
-- prithivMLmods/Qwen3-VL-32B-Instruct-Unredacted-MAX-FP8 [🔗](https://huggingface.co/prithivMLmods/Qwen3-VL-32B-Instruct-Unredacted-MAX-FP8) (🌟 1 | 📥 0)
-- prithivMLmods/Qwen3-VL-32B-Thinking-Unredacted-MAX-FP8 [🔗](https://huggingface.co/prithivMLmods/Qwen3-VL-32B-Thinking-Unredacted-MAX-FP8) (🌟 1 | 📥 0)
+- ataeff/yent.yo [🔗](https://huggingface.co/ataeff/yent.yo) (🌟 1 | 📥 0)
+- EsferSami/gemma-3-1b-bangla-mental-health [🔗](https://huggingface.co/EsferSami/gemma-3-1b-bangla-mental-health) (🌟 0 | 📥 0)
 
 ## ⛽ Trending Datasets
-- PleIAs/common_corpus [🔗](https://huggingface.co/datasets/PleIAs/common_corpus) (🌟 351 | 📥 55413)
-- artefactory/Argimi-Ardian-Finance-10k-text [🔗](https://huggingface.co/datasets/artefactory/Argimi-Ardian-Finance-10k-text) (🌟 15 | 📥 1583)
-- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 2291)
-- artefactory/Argimi-Ardian-Finance-10k-text-image [🔗](https://huggingface.co/datasets/artefactory/Argimi-Ardian-Finance-10k-text-image) (🌟 8 | 📥 17462)
-- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4846)
+- ma-xu/fine-t2i [🔗](https://huggingface.co/datasets/ma-xu/fine-t2i) (🌟 80 | 📥 24044)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1790614)
+- nvidia/HiLiftAeroML [🔗](https://huggingface.co/datasets/nvidia/HiLiftAeroML) (🌟 17 | 📥 703)
+- tokyotech-llm/lmsys-chat-1m-synth [🔗](https://huggingface.co/datasets/tokyotech-llm/lmsys-chat-1m-synth) (🌟 16 | 📥 838)
+- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 2948)
 
 ## 🏠 Trending Spaces
-- taishi-i/awesome-ChatGPT-repositories-search [🔗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) (🌟 54)
-- c-pitti/Aya-Interface [🔗](https://huggingface.co/spaces/c-pitti/Aya-Interface) (🌟 1)
-- AegionX/HoopMind [🔗](https://huggingface.co/spaces/AegionX/HoopMind) (🌟 1)
-- stephane09/chd-rainette_v0_4 [🔗](https://huggingface.co/spaces/stephane09/chd-rainette_v0_4) (🌟 1)
-- Eli1993/multi-llm-chat [🔗](https://huggingface.co/spaces/Eli1993/multi-llm-chat) (🌟 1)
+- rohithhegde26/agentic-honeypot [🔗](https://huggingface.co/spaces/rohithhegde26/agentic-honeypot) (🌟 2)
+- Chiragtiwari96/Stock_Marketsense-ai [🔗](https://huggingface.co/spaces/Chiragtiwari96/Stock_Marketsense-ai) (🌟 1)
+- ASTAROTH-0405/DeepSeek-R1-Distill-Qwen-14B-abliterated.Q4_K_M.gguf [🔗](https://huggingface.co/spaces/ASTAROTH-0405/DeepSeek-R1-Distill-Qwen-14B-abliterated.Q4_K_M.gguf) (🌟 1)
+- eho69/arch [🔗](https://huggingface.co/spaces/eho69/arch) (🌟 1)
+- Asish22/Sentinel [🔗](https://huggingface.co/spaces/Asish22/Sentinel) (🌟 1)
 
 ## 📄 Trending Papers
-- **SLA2: Sparse-Linear Attention with Learnable Routing and QAT**
-  🏢 [UC Berkeley](https://huggingface.co/Berkeley) • 👍 22 • [View Paper](https://huggingface.co/papers/2602.12675)
-- **Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**
-  👤 [Runpei Dong](https://huggingface.co/RunpeiDong) • 👍 18 • [View Paper](https://huggingface.co/papers/2602.16705)
-- **RynnBrain: Open Embodied Foundation Models**
-  🏢 [DAMO Academy](https://huggingface.co/Alibaba-DAMO-Academy) • 👍 9 • [View Paper](https://huggingface.co/papers/2602.14979)
-- **Multi-agent cooperation through in-context co-player inference**
-  🏢 [Google](https://huggingface.co/google) • 👍 5 • [View Paper](https://huggingface.co/papers/2602.16301)
-- **World Action Models are Zero-shot Policies**
-  🏢 [NVIDIA Deep Imagination Research](https://huggingface.co/NVIDIA-DIR) • 👍 4 • [View Paper](https://huggingface.co/papers/2602.15922)
+- **SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning**
+  🏢 [Tsinghua University](https://huggingface.co/Tsinghua) • 👍 9 • [View Paper](https://huggingface.co/papers/2602.13515)
+- **Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents**
+  🏢 [TongyiLab](https://huggingface.co/AlibabaTongyiLab) • 👍 7 • [View Paper](https://huggingface.co/papers/2602.16855)
+- **Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5**
+  🏢 [AI45Research](https://huggingface.co/AI45Research) • 👍 6 • [View Paper](https://huggingface.co/papers/2602.14457)
+- **DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers**
+  👤 [taesiri](https://huggingface.co/taesiri) • 👍 4 • [View Paper](https://huggingface.co/papers/2602.16968)
+- **Unified Latents (UL): How to train your latents**
+  🏢 [Google](https://huggingface.co/google) • 👍 3 • [View Paper](https://huggingface.co/papers/2602.17270)
