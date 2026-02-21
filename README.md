@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-20 05:44:02
+Update Time: 2026-02-21 05:34:03
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- Qwen/Qwen3.5-397B-A17B [🔗](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) (🌟 741 | 📥 79343)
-- ubergarm/Qwen3.5-397B-A17B-GGUF [🔗](https://huggingface.co/ubergarm/Qwen3.5-397B-A17B-GGUF) (🌟 17 | 📥 1553)
-- Chattiori/ChattioriMixesXL [🔗](https://huggingface.co/Chattiori/ChattioriMixesXL) (🌟 8 | 📥 0)
-- ataeff/yent.yo [🔗](https://huggingface.co/ataeff/yent.yo) (🌟 1 | 📥 0)
-- EsferSami/gemma-3-1b-bangla-mental-health [🔗](https://huggingface.co/EsferSami/gemma-3-1b-bangla-mental-health) (🌟 0 | 📥 0)
+- deepgenteam/DeepGen-1.0 [🔗](https://huggingface.co/deepgenteam/DeepGen-1.0) (🌟 124 | 📥 0)
+- eneet/Z-image-base-lora [🔗](https://huggingface.co/eneet/Z-image-base-lora) (🌟 1 | 📥 0)
+- OccultAI/Trixster-MoE-Karcher-14B-A8B-v1 [🔗](https://huggingface.co/OccultAI/Trixster-MoE-Karcher-14B-A8B-v1) (🌟 1 | 📥 0)
+- papirrin2025/L3.1-Dark-Reasoning-LewdPlay-evo-Hermes-R1-Uncensored-8B [🔗](https://huggingface.co/papirrin2025/L3.1-Dark-Reasoning-LewdPlay-evo-Hermes-R1-Uncensored-8B) (🌟 1 | 📥 0)
+- jeypiii/Llama-3.2-3B-Instruct_ECQA_C3oT [🔗](https://huggingface.co/jeypiii/Llama-3.2-3B-Instruct_ECQA_C3oT) (🌟 0 | 📥 0)
 
 ## ⛽ Trending Datasets
-- ma-xu/fine-t2i [🔗](https://huggingface.co/datasets/ma-xu/fine-t2i) (🌟 80 | 📥 24044)
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1790614)
-- nvidia/HiLiftAeroML [🔗](https://huggingface.co/datasets/nvidia/HiLiftAeroML) (🌟 17 | 📥 703)
-- tokyotech-llm/lmsys-chat-1m-synth [🔗](https://huggingface.co/datasets/tokyotech-llm/lmsys-chat-1m-synth) (🌟 16 | 📥 838)
-- charlottev/google-streetview-images-by-country [🔗](https://huggingface.co/datasets/charlottev/google-streetview-images-by-country) (🌟 14 | 📥 2948)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1802366)
+- ut-vision/EgoBrain [🔗](https://huggingface.co/datasets/ut-vision/EgoBrain) (🌟 4 | 📥 109)
+- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 14351)
+- optimum-amd/transformers_daily_ci [🔗](https://huggingface.co/datasets/optimum-amd/transformers_daily_ci) (🌟 1 | 📥 7991)
+- Sachin21112004/news-education-dataset [🔗](https://huggingface.co/datasets/Sachin21112004/news-education-dataset) (🌟 1 | 📥 2044)
 
 ## 🏠 Trending Spaces
-- rohithhegde26/agentic-honeypot [🔗](https://huggingface.co/spaces/rohithhegde26/agentic-honeypot) (🌟 2)
-- Chiragtiwari96/Stock_Marketsense-ai [🔗](https://huggingface.co/spaces/Chiragtiwari96/Stock_Marketsense-ai) (🌟 1)
-- ASTAROTH-0405/DeepSeek-R1-Distill-Qwen-14B-abliterated.Q4_K_M.gguf [🔗](https://huggingface.co/spaces/ASTAROTH-0405/DeepSeek-R1-Distill-Qwen-14B-abliterated.Q4_K_M.gguf) (🌟 1)
-- eho69/arch [🔗](https://huggingface.co/spaces/eho69/arch) (🌟 1)
-- Asish22/Sentinel [🔗](https://huggingface.co/spaces/Asish22/Sentinel) (🌟 1)
+- Nexari-Research/Nexari-G1.1 [🔗](https://huggingface.co/spaces/Nexari-Research/Nexari-G1.1) (🌟 1)
+- Aqarion/AQARION-Living-Systems-Interface [🔗](https://huggingface.co/spaces/Aqarion/AQARION-Living-Systems-Interface) (🌟 1)
+- soumyadipmondal2165/Built-Theory-Pro [🔗](https://huggingface.co/spaces/soumyadipmondal2165/Built-Theory-Pro) (🌟 1)
+- ykinr/phi-3 [🔗](https://huggingface.co/spaces/ykinr/phi-3) (🌟 1)
+- projectlosangeles/Awesome-Melody-Transformer [🔗](https://huggingface.co/spaces/projectlosangeles/Awesome-Melody-Transformer) (🌟 1)
 
 ## 📄 Trending Papers
 - **SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning**
-  🏢 [Tsinghua University](https://huggingface.co/Tsinghua) • 👍 9 • [View Paper](https://huggingface.co/papers/2602.13515)
+  🏢 [Tsinghua University](https://huggingface.co/Tsinghua) • 👍 28 • [View Paper](https://huggingface.co/papers/2602.13515)
 - **Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents**
-  🏢 [TongyiLab](https://huggingface.co/AlibabaTongyiLab) • 👍 7 • [View Paper](https://huggingface.co/papers/2602.16855)
-- **Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5**
-  🏢 [AI45Research](https://huggingface.co/AI45Research) • 👍 6 • [View Paper](https://huggingface.co/papers/2602.14457)
-- **DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers**
-  👤 [taesiri](https://huggingface.co/taesiri) • 👍 4 • [View Paper](https://huggingface.co/papers/2602.16968)
+  🏢 [TongyiLab](https://huggingface.co/AlibabaTongyiLab) • 👍 24 • [View Paper](https://huggingface.co/papers/2602.16855)
 - **Unified Latents (UL): How to train your latents**
-  🏢 [Google](https://huggingface.co/google) • 👍 3 • [View Paper](https://huggingface.co/papers/2602.17270)
+  🏢 [Google](https://huggingface.co/google) • 👍 21 • [View Paper](https://huggingface.co/papers/2602.17270)
+- **Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5**
+  🏢 [AI45Research](https://huggingface.co/AI45Research) • 👍 13 • [View Paper](https://huggingface.co/papers/2602.14457)
+- **"What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing**
+  🏢 [BMW LLM Research Group](https://huggingface.co/BMW-LLM-Research-Group) • 👍 12 • [View Paper](https://huggingface.co/papers/2602.15569)
