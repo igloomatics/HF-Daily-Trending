@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-24 05:50:30
+Update Time: 2026-02-25 05:52:38
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- deadman44/Z-Image_LoRA [🔗](https://huggingface.co/deadman44/Z-Image_LoRA) (🌟 11 | 📥 0)
-- gagansuie/oxidize-models [🔗](https://huggingface.co/gagansuie/oxidize-models) (🌟 3 | 📥 261)
-- sanvo/vietnamese-sentiment-phobert [🔗](https://huggingface.co/sanvo/vietnamese-sentiment-phobert) (🌟 1 | 📥 0)
-- LLM-BC/llmbc-checkpoints [🔗](https://huggingface.co/LLM-BC/llmbc-checkpoints) (🌟 0 | 📥 0)
-- stevbach/locomotion_saved_s51 [🔗](https://huggingface.co/stevbach/locomotion_saved_s51) (🌟 0 | 📥 0)
+- lodestones/Zeta-Chroma [🔗](https://huggingface.co/lodestones/Zeta-Chroma) (🌟 125 | 📥 0)
+- PicoKittens/PicoMistral-23M [🔗](https://huggingface.co/PicoKittens/PicoMistral-23M) (🌟 2 | 📥 0)
+- mradermacher/zen4-i1-GGUF [🔗](https://huggingface.co/mradermacher/zen4-i1-GGUF) (🌟 1 | 📥 2866)
+- mradermacher/Hypernova-60B-2602-GGUF [🔗](https://huggingface.co/mradermacher/Hypernova-60B-2602-GGUF) (🌟 1 | 📥 0)
+- mradermacher/Norobara-LimaRP-ZLoss-8x7B-GGUF [🔗](https://huggingface.co/mradermacher/Norobara-LimaRP-ZLoss-8x7B-GGUF) (🌟 1 | 📥 15)
 
 ## ⛽ Trending Datasets
-- GD-ML/IntTravel_dataset [🔗](https://huggingface.co/datasets/GD-ML/IntTravel_dataset) (🌟 72 | 📥 1852)
-- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 8339)
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1807057)
-- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4761)
-- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 4283)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1801790)
+- hysts-bot-data/daily-papers [🔗](https://huggingface.co/datasets/hysts-bot-data/daily-papers) (🌟 14 | 📥 3811)
+- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4817)
+- huggingchat/papers-content [🔗](https://huggingface.co/datasets/huggingchat/papers-content) (🌟 6 | 📥 3699)
+- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 4347)
 
 ## 🏠 Trending Spaces
-- Pvpbetter/losy [🔗](https://huggingface.co/spaces/Pvpbetter/losy) (🌟 1)
-- Yessushsjau/Yes [🔗](https://huggingface.co/spaces/Yessushsjau/Yes) (🌟 1)
-- nik9076/bot [🔗](https://huggingface.co/spaces/nik9076/bot) (🌟 1)
-- SHERWYNLUCIAN/EvoNet-Worker [🔗](https://huggingface.co/spaces/SHERWYNLUCIAN/EvoNet-Worker) (🌟 1)
-- UZMAilyas/MEDPHY-NEXUS [🔗](https://huggingface.co/spaces/UZMAilyas/MEDPHY-NEXUS) (🌟 1)
+- Serrelab/fossil_app [🔗](https://huggingface.co/spaces/Serrelab/fossil_app) (🌟 2)
+- saifom/SQU-Medical-Library [🔗](https://huggingface.co/spaces/saifom/SQU-Medical-Library) (🌟 1)
+- samarth7791/samarthAI [🔗](https://huggingface.co/spaces/samarth7791/samarthAI) (🌟 1)
+- caarleexx/paraAIBetaxx200 [🔗](https://huggingface.co/spaces/caarleexx/paraAIBetaxx200) (🌟 1)
+- AndreArya000/Report_Generator [🔗](https://huggingface.co/spaces/AndreArya000/Report_Generator) (🌟 1)
 
 ## 📄 Trending Papers
-- **A Very Big Video Reasoning Suite**
-  👤 [taesiri](https://huggingface.co/taesiri) • 👍 24 • [View Paper](https://huggingface.co/papers/2602.20159)
-- **TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**
-  🏢 [Ai2](https://huggingface.co/allenai) • 👍 12 • [View Paper](https://huggingface.co/papers/2602.19313)
-- **DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning**
-  👤 [Hui Shen](https://huggingface.co/Cloudriver) • 👍 8 • [View Paper](https://huggingface.co/papers/2602.19895)
-- **Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**
-  🏢 [Mohamed Bin Zayed University of Artificial Intelligence](https://huggingface.co/MBZUAI) • 👍 7 • [View Paper](https://huggingface.co/papers/2602.20161)
-- **Agents of Chaos**
-  👤 [taesiri](https://huggingface.co/taesiri) • 👍 5 • [View Paper](https://huggingface.co/papers/2602.20021)
+- **On Data Engineering for Scaling LLM Terminal Capabilities**
+  🏢 [NVIDIA](https://huggingface.co/nvidia) • 👍 15 • [View Paper](https://huggingface.co/papers/2602.21193)
+- **From Perception to Action: An Interactive Benchmark for Vision Reasoning**
+  👤 [Zhiqiang Hu](https://huggingface.co/Zhiqiang007) • 👍 12 • [View Paper](https://huggingface.co/papers/2602.21015)
+- **PyVision-RL: Forging Open Agentic Vision Models via RL**
+  👤 [steve z](https://huggingface.co/stzhao) • 👍 11 • [View Paper](https://huggingface.co/papers/2602.20739)
+- **LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces**
+  👤 [kaipeng](https://huggingface.co/kpzhang996) • 👍 7 • [View Paper](https://huggingface.co/papers/2602.14337)
+- **Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation**
+  🏢 [The Fin AI](https://huggingface.co/TheFinAI) • 👍 3 • [View Paper](https://huggingface.co/papers/2602.16990)
