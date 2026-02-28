@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-02-27 05:42:35
+Update Time: 2026-02-28 05:23:18
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- Chattiori/ChattioriMixesXL [🔗](https://huggingface.co/Chattiori/ChattioriMixesXL) (🌟 8 | 📥 0)
-- GenerTeam/GENERanno-prokaryote-0.5b-cds-annotator [🔗](https://huggingface.co/GenerTeam/GENERanno-prokaryote-0.5b-cds-annotator) (🌟 2 | 📥 724)
-- jinaai/jina-embeddings-v5-text-small-retrieval-mlx [🔗](https://huggingface.co/jinaai/jina-embeddings-v5-text-small-retrieval-mlx) (🌟 2 | 📥 365)
-- GenerTeam/GENERanno-eukaryote-0.5b-base [🔗](https://huggingface.co/GenerTeam/GENERanno-eukaryote-0.5b-base) (🌟 1 | 📥 61)
-- GenerTeam/GENERanno-prokaryote-0.5b-base [🔗](https://huggingface.co/GenerTeam/GENERanno-prokaryote-0.5b-base) (🌟 1 | 📥 157)
+- derekhsu/loras [🔗](https://huggingface.co/derekhsu/loras) (🌟 9 | 📥 0)
+- rajthakkar123/Omega-3060-Nano-1245 [🔗](https://huggingface.co/rajthakkar123/Omega-3060-Nano-1245) (🌟 0 | 📥 0)
+- Mrsmetamorphosis/wav2vec2-large-xls-r-300m-dm32-baseline-fixed-v1 [🔗](https://huggingface.co/Mrsmetamorphosis/wav2vec2-large-xls-r-300m-dm32-baseline-fixed-v1) (🌟 0 | 📥 0)
+- Daiki0K/LLM2025_comp_advanced_6 [🔗](https://huggingface.co/Daiki0K/LLM2025_comp_advanced_6) (🌟 0 | 📥 0)
+- neptunes5thmoon/equivariance [🔗](https://huggingface.co/neptunes5thmoon/equivariance) (🌟 0 | 📥 0)
 
 ## ⛽ Trending Datasets
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1795505)
-- agents-course/unit4-students-scores [🔗](https://huggingface.co/datasets/agents-course/unit4-students-scores) (🌟 11 | 📥 11655)
-- huggingchat/papers-content [🔗](https://huggingface.co/datasets/huggingchat/papers-content) (🌟 6 | 📥 4126)
-- aufklarer/central-bank-communications [🔗](https://huggingface.co/datasets/aufklarer/central-bank-communications) (🌟 3 | 📥 800)
-- AweAI-Team/Scale-SWE [🔗](https://huggingface.co/datasets/AweAI-Team/Scale-SWE) (🌟 3 | 📥 0)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 22 | 📥 1805063)
+- hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 65749)
+- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 4898)
+- AppThreat/vdb [🔗](https://huggingface.co/datasets/AppThreat/vdb) (🌟 3 | 📥 4457)
+- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 13653)
 
 ## 🏠 Trending Spaces
-- pirescl/agentus-dominator [🔗](https://huggingface.co/spaces/pirescl/agentus-dominator) (🌟 1)
-- Sakthivel-03/Rupiece_Api [🔗](https://huggingface.co/spaces/Sakthivel-03/Rupiece_Api) (🌟 1)
-- ADMEICD/ChatBot [🔗](https://huggingface.co/spaces/ADMEICD/ChatBot) (🌟 1)
-- kk898679/kk-family-ai [🔗](https://huggingface.co/spaces/kk898679/kk-family-ai) (🌟 1)
-- Nini0202/NIRA.CODE_BE [🔗](https://huggingface.co/spaces/Nini0202/NIRA.CODE_BE) (🌟 1)
+- Fabrice-TIERCELIN/SUPIR [🔗](https://huggingface.co/spaces/Fabrice-TIERCELIN/SUPIR) (🌟 237)
+- Mistral-AI-Game-Jam/shyguys_2 [🔗](https://huggingface.co/spaces/Mistral-AI-Game-Jam/shyguys_2) (🌟 43)
+- hetchyy/Quran-multi-aligner [🔗](https://huggingface.co/spaces/hetchyy/Quran-multi-aligner) (🌟 2)
+- kavinraja/ml-service [🔗](https://huggingface.co/spaces/kavinraja/ml-service) (🌟 1)
+- samratttt/deepsite-project-79f7a [🔗](https://huggingface.co/spaces/samratttt/deepsite-project-79f7a) (🌟 1)
 
 ## 📄 Trending Papers
 - **The Trinity of Consistency as a Defining Principle for General World Models**
-  🏢 [OpenDataLab](https://huggingface.co/opendatalab) • 👍 36 • [View Paper](https://huggingface.co/papers/2602.23152)
+  🏢 [OpenDataLab](https://huggingface.co/opendatalab) • 👍 178 • [View Paper](https://huggingface.co/papers/2602.23152)
+- **From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models**
+  👤 [jiangchaoya](https://huggingface.co/jcy) • 👍 142 • [View Paper](https://huggingface.co/papers/2602.22859)
+- **MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios**
+  🏢 [alibaba-inc](https://huggingface.co/alibaba-inc) • 👍 90 • [View Paper](https://huggingface.co/papers/2602.22638)
 - **OmniGAIA: Towards Native Omni-Modal AI Agents**
-  👤 [Xiaoxi Li](https://huggingface.co/lixiaoxi45) • 👍 29 • [View Paper](https://huggingface.co/papers/2602.22897)
+  👤 [Xiaoxi Li](https://huggingface.co/lixiaoxi45) • 👍 46 • [View Paper](https://huggingface.co/papers/2602.22897)
 - **Imagination Helps Visual Reasoning, But Not Yet in Latent Space**
-  🏢 [Tsinghua University](https://huggingface.co/Tsinghua) • 👍 16 • [View Paper](https://huggingface.co/papers/2602.22766)
-- **Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization**
-  🏢 [Microsoft](https://huggingface.co/microsoft) • 👍 7 • [View Paper](https://huggingface.co/papers/2602.23008)
-- **Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**
-  👤 [Jaehyun Park](https://huggingface.co/Cabbalett) • 👍 6 • [View Paper](https://huggingface.co/papers/2602.21760)
+  🏢 [Tsinghua University](https://huggingface.co/Tsinghua) • 👍 33 • [View Paper](https://huggingface.co/papers/2602.22766)
