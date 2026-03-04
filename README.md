@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-03-03 05:39:39
+Update Time: 2026-03-04 05:36:07
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- E-Anlia/RaUiT2B_Alpha_Train100k [🔗](https://huggingface.co/E-Anlia/RaUiT2B_Alpha_Train100k) (🌟 1 | 📥 0)
-- Brunobkr/OFFELLIA_Quantis [🔗](https://huggingface.co/Brunobkr/OFFELLIA_Quantis) (🌟 1 | 📥 56106)
-- Cualcorreo31/enrique [🔗](https://huggingface.co/Cualcorreo31/enrique) (🌟 0 | 📥 441)
-- ejwang440/ee148a-project [🔗](https://huggingface.co/ejwang440/ee148a-project) (🌟 0 | 📥 0)
-- 0xA50C1A1/outputs [🔗](https://huggingface.co/0xA50C1A1/outputs) (🌟 0 | 📥 0)
+- HiDream-ai/ReCo [🔗](https://huggingface.co/HiDream-ai/ReCo) (🌟 9 | 📥 0)
+- unsloth/Qwen3.5-35B-A3B [🔗](https://huggingface.co/unsloth/Qwen3.5-35B-A3B) (🌟 8 | 📥 8762)
+- rishabh-ranjan/relational-transformer [🔗](https://huggingface.co/rishabh-ranjan/relational-transformer) (🌟 4 | 📥 0)
+- jakegrigsby/metamon [🔗](https://huggingface.co/jakegrigsby/metamon) (🌟 4 | 📥 0)
+- Naphula/GhostFace-24B-v1 [🔗](https://huggingface.co/Naphula/GhostFace-24B-v1) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 23 | 📥 1862992)
-- malaysia-ai/Multilingual-TTS [🔗](https://huggingface.co/datasets/malaysia-ai/Multilingual-TTS) (🌟 14 | 📥 1242)
-- hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 72798)
-- vector-institute/open-pmc-18m [🔗](https://huggingface.co/datasets/vector-institute/open-pmc-18m) (🌟 5 | 📥 2662)
-- optimum-amd/transformers_daily_ci [🔗](https://huggingface.co/datasets/optimum-amd/transformers_daily_ci) (🌟 1 | 📥 7754)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 23 | 📥 1927053)
+- agents-course/unit4-students-scores [🔗](https://huggingface.co/datasets/agents-course/unit4-students-scores) (🌟 11 | 📥 11901)
+- agents-course/final-certificates [🔗](https://huggingface.co/datasets/agents-course/final-certificates) (🌟 9 | 📥 1084)
+- hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 75444)
+- agents-course/course-certificates-of-excellence [🔗](https://huggingface.co/datasets/agents-course/course-certificates-of-excellence) (🌟 8 | 📥 673)
 
 ## 🏠 Trending Spaces
-- DontPlanToEnd/UGI-Leaderboard [🔗](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) (🌟 1534)
-- huggingface-projects/gemma-2-9b-it [🔗](https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it) (🌟 101)
-- huggingface-projects/gemma-2-2b-it [🔗](https://huggingface.co/spaces/huggingface-projects/gemma-2-2b-it) (🌟 86)
-- mithra99/MathViz [🔗](https://huggingface.co/spaces/mithra99/MathViz) (🌟 1)
-- Vezunchyk/My-game [🔗](https://huggingface.co/spaces/Vezunchyk/My-game) (🌟 1)
+- soumyadipmondal2165/Built-Theory-Pro [🔗](https://huggingface.co/spaces/soumyadipmondal2165/Built-Theory-Pro) (🌟 1)
+- FRAN20699/Presentacion_redes [🔗](https://huggingface.co/spaces/FRAN20699/Presentacion_redes) (🌟 1)
+- qf46578/My-openclaw [🔗](https://huggingface.co/spaces/qf46578/My-openclaw) (🌟 1)
+- Prashant-k52/legalsarathi [🔗](https://huggingface.co/spaces/Prashant-k52/legalsarathi) (🌟 1)
+- zhangzexin/myopenclaw [🔗](https://huggingface.co/spaces/zhangzexin/myopenclaw) (🌟 1)
 
 ## 📄 Trending Papers
-- **OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**
-  🏢 [Fudan University](https://huggingface.co/Fudan-University) • 👍 34 • [View Paper](https://huggingface.co/papers/2603.02138)
-- **VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection**
-  🏢 [The Hong Kong University of Science and Technology](https://huggingface.co/hongkongust) • 👍 22 • [View Paper](https://huggingface.co/papers/2603.00912)
-- **RubricBench: Aligning Model-Generated Rubrics with Human Standards**
-  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 18 • [View Paper](https://huggingface.co/papers/2603.01562)
-- **Spectral Condition for μP under Width-Depth Scaling**
-  🏢 [GSAI-ML](https://huggingface.co/GSAI-ML) • 👍 11 • [View Paper](https://huggingface.co/papers/2603.00541)
-- **LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model**
-  🏢 [GSAI-ML](https://huggingface.co/GSAI-ML) • 👍 8 • [View Paper](https://huggingface.co/papers/2603.01068)
+- **UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**
+  👤 [Yifei Shen](https://huggingface.co/yshenaw) • 👍 32 • [View Paper](https://huggingface.co/papers/2603.03241)
+- **Beyond Language Modeling: An Exploration of Multimodal Pretraining**
+  🏢 [AI at Meta](https://huggingface.co/facebook) • 👍 19 • [View Paper](https://huggingface.co/papers/2603.03276)
+- **Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models**
+  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 15 • [View Paper](https://huggingface.co/papers/2603.01571)
+- **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities**
+  🏢 [alibaba-inc](https://huggingface.co/alibaba-inc) • 👍 13 • [View Paper](https://huggingface.co/papers/2603.02578)
+- **Kling-MotionControl Technical Report**
+  🏢 [Kling Team](https://huggingface.co/KlingTeam) • 👍 5 • [View Paper](https://huggingface.co/papers/2603.03160)
