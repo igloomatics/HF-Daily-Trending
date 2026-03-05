@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-03-04 05:36:07
+Update Time: 2026-03-05 05:38:34
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- HiDream-ai/ReCo [🔗](https://huggingface.co/HiDream-ai/ReCo) (🌟 9 | 📥 0)
-- unsloth/Qwen3.5-35B-A3B [🔗](https://huggingface.co/unsloth/Qwen3.5-35B-A3B) (🌟 8 | 📥 8762)
-- rishabh-ranjan/relational-transformer [🔗](https://huggingface.co/rishabh-ranjan/relational-transformer) (🌟 4 | 📥 0)
-- jakegrigsby/metamon [🔗](https://huggingface.co/jakegrigsby/metamon) (🌟 4 | 📥 0)
-- Naphula/GhostFace-24B-v1 [🔗](https://huggingface.co/Naphula/GhostFace-24B-v1) (🌟 1 | 📥 0)
+- bartowski/Qwen_Qwen3.5-35B-A3B-GGUF [🔗](https://huggingface.co/bartowski/Qwen_Qwen3.5-35B-A3B-GGUF) (🌟 24 | 📥 97966)
+- YuanLabAI/Yuan3.0-Ultra [🔗](https://huggingface.co/YuanLabAI/Yuan3.0-Ultra) (🌟 15 | 📥 0)
+- juergengunz/fluxer [🔗](https://huggingface.co/juergengunz/fluxer) (🌟 1 | 📥 0)
+- mradermacher/Lumimaid-v0.2-8B-Heretic-GGUF [🔗](https://huggingface.co/mradermacher/Lumimaid-v0.2-8B-Heretic-GGUF) (🌟 1 | 📥 1144)
+- shivamjha98/yolo11s-strawberry-detection [🔗](https://huggingface.co/shivamjha98/yolo11s-strawberry-detection) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 23 | 📥 1927053)
-- agents-course/unit4-students-scores [🔗](https://huggingface.co/datasets/agents-course/unit4-students-scores) (🌟 11 | 📥 11901)
-- agents-course/final-certificates [🔗](https://huggingface.co/datasets/agents-course/final-certificates) (🌟 9 | 📥 1084)
-- hf-doc-build/doc-build-dev [🔗](https://huggingface.co/datasets/hf-doc-build/doc-build-dev) (🌟 9 | 📥 75444)
-- agents-course/course-certificates-of-excellence [🔗](https://huggingface.co/datasets/agents-course/course-certificates-of-excellence) (🌟 8 | 📥 673)
+- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 10227)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 23 | 📥 1971444)
+- UniParser/RxnBench [🔗](https://huggingface.co/datasets/UniParser/RxnBench) (🌟 11 | 📥 152)
+- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 5101)
+- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 13294)
 
 ## 🏠 Trending Spaces
-- soumyadipmondal2165/Built-Theory-Pro [🔗](https://huggingface.co/spaces/soumyadipmondal2165/Built-Theory-Pro) (🌟 1)
-- FRAN20699/Presentacion_redes [🔗](https://huggingface.co/spaces/FRAN20699/Presentacion_redes) (🌟 1)
-- qf46578/My-openclaw [🔗](https://huggingface.co/spaces/qf46578/My-openclaw) (🌟 1)
-- Prashant-k52/legalsarathi [🔗](https://huggingface.co/spaces/Prashant-k52/legalsarathi) (🌟 1)
-- zhangzexin/myopenclaw [🔗](https://huggingface.co/spaces/zhangzexin/myopenclaw) (🌟 1)
+- zitrack/HealthCare-Assistant-Chatbot [🔗](https://huggingface.co/spaces/zitrack/HealthCare-Assistant-Chatbot) (🌟 1)
+- kacapower/ctrlcent [🔗](https://huggingface.co/spaces/kacapower/ctrlcent) (🌟 1)
+- ejzhu2026/video-agent-hero [🔗](https://huggingface.co/spaces/ejzhu2026/video-agent-hero) (🌟 1)
+- zyn1008/SBRNBAODDS [🔗](https://huggingface.co/spaces/zyn1008/SBRNBAODDS) (🌟 1)
+- Vezunchyk/My-game [🔗](https://huggingface.co/spaces/Vezunchyk/My-game) (🌟 1)
 
 ## 📄 Trending Papers
-- **UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**
-  👤 [Yifei Shen](https://huggingface.co/yshenaw) • 👍 32 • [View Paper](https://huggingface.co/papers/2603.03241)
-- **Beyond Language Modeling: An Exploration of Multimodal Pretraining**
-  🏢 [AI at Meta](https://huggingface.co/facebook) • 👍 19 • [View Paper](https://huggingface.co/papers/2603.03276)
-- **Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models**
-  🏢 [Tencent Hunyuan](https://huggingface.co/Tencent-Hunyuan) • 👍 15 • [View Paper](https://huggingface.co/papers/2603.01571)
-- **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities**
-  🏢 [alibaba-inc](https://huggingface.co/alibaba-inc) • 👍 13 • [View Paper](https://huggingface.co/papers/2603.02578)
-- **Kling-MotionControl Technical Report**
-  🏢 [Kling Team](https://huggingface.co/KlingTeam) • 👍 5 • [View Paper](https://huggingface.co/papers/2603.03160)
+- **Helios: Real Real-Time Long Video Generation Model**
+  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 33 • [View Paper](https://huggingface.co/papers/2603.04379)
+- **T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning**
+  👤 [Wang](https://huggingface.co/Qinsi1) • 👍 17 • [View Paper](https://huggingface.co/papers/2603.03790)
+- **Heterogeneous Agent Collaborative Reinforcement Learning**
+  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 17 • [View Paper](https://huggingface.co/papers/2603.02604)
+- **Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory**
+  👤 [Zhenting Wang](https://huggingface.co/ztwang) • 👍 5 • [View Paper](https://huggingface.co/papers/2603.04257)
+- **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
+  🏢 [ARC Lab, Tencent PCG](https://huggingface.co/TencentARC) • 👍 4 • [View Paper](https://huggingface.co/papers/2603.04291)
