@@ -1,5 +1,5 @@
 # Hugging Face Daily Trending (Official)
-Update Time: 2026-03-05 05:38:34
+Update Time: 2026-03-06 05:37:32
 
 ### ℹ️ About this Report
 This report is automatically generated daily using the Hugging Face API.
@@ -8,34 +8,34 @@ This report is automatically generated daily using the Hugging Face API.
 
 
 ## 🧠 Trending Models
-- bartowski/Qwen_Qwen3.5-35B-A3B-GGUF [🔗](https://huggingface.co/bartowski/Qwen_Qwen3.5-35B-A3B-GGUF) (🌟 24 | 📥 97966)
-- YuanLabAI/Yuan3.0-Ultra [🔗](https://huggingface.co/YuanLabAI/Yuan3.0-Ultra) (🌟 15 | 📥 0)
-- juergengunz/fluxer [🔗](https://huggingface.co/juergengunz/fluxer) (🌟 1 | 📥 0)
-- mradermacher/Lumimaid-v0.2-8B-Heretic-GGUF [🔗](https://huggingface.co/mradermacher/Lumimaid-v0.2-8B-Heretic-GGUF) (🌟 1 | 📥 1144)
-- shivamjha98/yolo11s-strawberry-detection [🔗](https://huggingface.co/shivamjha98/yolo11s-strawberry-detection) (🌟 1 | 📥 0)
+- Sentinel7/wan [🔗](https://huggingface.co/Sentinel7/wan) (🌟 9 | 📥 0)
+- bartowski/Qwen_Qwen3.5-397B-A17B-GGUF [🔗](https://huggingface.co/bartowski/Qwen_Qwen3.5-397B-A17B-GGUF) (🌟 3 | 📥 66785)
+- Manhph2211/D-BETA [🔗](https://huggingface.co/Manhph2211/D-BETA) (🌟 2 | 📥 2)
+- weijuinlee/coastal-risk-ai [🔗](https://huggingface.co/weijuinlee/coastal-risk-ai) (🌟 1 | 📥 0)
+- poor7/Other [🔗](https://huggingface.co/poor7/Other) (🌟 1 | 📥 0)
 
 ## ⛽ Trending Datasets
-- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 10227)
-- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 23 | 📥 1971444)
-- UniParser/RxnBench [🔗](https://huggingface.co/datasets/UniParser/RxnBench) (🌟 11 | 📥 152)
-- Pendrokar/TTS_Arena [🔗](https://huggingface.co/datasets/Pendrokar/TTS_Arena) (🌟 6 | 📥 5101)
-- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 13294)
+- agents-course/certificates [🔗](https://huggingface.co/datasets/agents-course/certificates) (🌟 68 | 📥 10145)
+- KakologArchives/KakologArchives [🔗](https://huggingface.co/datasets/KakologArchives/KakologArchives) (🌟 23 | 📥 1976818)
+- agents-course/unit4-students-scores [🔗](https://huggingface.co/datasets/agents-course/unit4-students-scores) (🌟 11 | 📥 11906)
+- pluslab/PLUS_Lab_GPUs_Data [🔗](https://huggingface.co/datasets/pluslab/PLUS_Lab_GPUs_Data) (🌟 3 | 📥 13121)
+- aufklarer/central-bank-communications [🔗](https://huggingface.co/datasets/aufklarer/central-bank-communications) (🌟 3 | 📥 523)
 
 ## 🏠 Trending Spaces
-- zitrack/HealthCare-Assistant-Chatbot [🔗](https://huggingface.co/spaces/zitrack/HealthCare-Assistant-Chatbot) (🌟 1)
-- kacapower/ctrlcent [🔗](https://huggingface.co/spaces/kacapower/ctrlcent) (🌟 1)
-- ejzhu2026/video-agent-hero [🔗](https://huggingface.co/spaces/ejzhu2026/video-agent-hero) (🌟 1)
-- zyn1008/SBRNBAODDS [🔗](https://huggingface.co/spaces/zyn1008/SBRNBAODDS) (🌟 1)
-- Vezunchyk/My-game [🔗](https://huggingface.co/spaces/Vezunchyk/My-game) (🌟 1)
+- luffyDTaro/Gmail_Notifications [🔗](https://huggingface.co/spaces/luffyDTaro/Gmail_Notifications) (🌟 1)
+- sanjanamadasu8/Rezumii [🔗](https://huggingface.co/spaces/sanjanamadasu8/Rezumii) (🌟 1)
+- saptarshiroy39/Cipher [🔗](https://huggingface.co/spaces/saptarshiroy39/Cipher) (🌟 0)
+- AMalta/indiClin2 [🔗](https://huggingface.co/spaces/AMalta/indiClin2) (🌟 0)
+- Heartsync/iran [🔗](https://huggingface.co/spaces/Heartsync/iran) (🌟 0)
 
 ## 📄 Trending Papers
-- **Helios: Real Real-Time Long Video Generation Model**
-  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 33 • [View Paper](https://huggingface.co/papers/2603.04379)
-- **T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning**
-  👤 [Wang](https://huggingface.co/Qinsi1) • 👍 17 • [View Paper](https://huggingface.co/papers/2603.03790)
-- **Heterogeneous Agent Collaborative Reinforcement Learning**
-  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 17 • [View Paper](https://huggingface.co/papers/2603.02604)
-- **Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory**
-  👤 [Zhenting Wang](https://huggingface.co/ztwang) • 👍 5 • [View Paper](https://huggingface.co/papers/2603.04257)
-- **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
-  🏢 [ARC Lab, Tencent PCG](https://huggingface.co/TencentARC) • 👍 4 • [View Paper](https://huggingface.co/papers/2603.04291)
+- **MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier**
+  🏢 [MiroMind AI](https://huggingface.co/miromind-ai) • 👍 41 • [View Paper](https://huggingface.co/papers/2603.03756)
+- **DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval**
+  🏢 [The Hong Kong Polytechnic University](https://huggingface.co/PolyUHK) • 👍 11 • [View Paper](https://huggingface.co/papers/2603.04743)
+- **SageBwd: A Trainable Low-bit Attention**
+  🏢 [University of California, Berkeley](https://huggingface.co/UCBerkeley) • 👍 10 • [View Paper](https://huggingface.co/papers/2603.02170)
+- **HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images**
+  🏢 [ByteDance](https://huggingface.co/ByteDance) • 👍 6 • [View Paper](https://huggingface.co/papers/2603.02210)
+- **DreamWorld: Unified World Modeling in Video Generation**
+  👤 [Xiangdong Zhang](https://huggingface.co/aHapBean) • 👍 5 • [View Paper](https://huggingface.co/papers/2603.00466)
